@@ -1,2 +1,2 @@
 # Three-Jumper
-use Three to implement a jumper game like mini program,user kan start a local server for this demo
+使用Three技术实现的微信小程序游戏Jumper的demo
